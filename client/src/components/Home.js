@@ -42,7 +42,7 @@ export default class Home extends Component{
                 <th scope = "col">SID </th>
                 <th scope = "col">month</th>
                 <th scope = "col">Date</th>
-                <th scope = "col">action </th>
+                <th scope = "col">Action </th>
 
               </tr>
             </thead>
